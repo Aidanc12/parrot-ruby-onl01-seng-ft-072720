@@ -2,4 +2,4 @@
 # returns the prhase
 +
 + def parrot(string="squawk!")
-+ puts 
++ puts ""
