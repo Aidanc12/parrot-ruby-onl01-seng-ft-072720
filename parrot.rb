@@ -1,1 +1,1 @@
-# create method 'parrot' that outputs a givin phrase
+# create method 'parrot' that outputs a givin phrase and
